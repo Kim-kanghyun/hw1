@@ -2,7 +2,7 @@
 
 ## 2019년 테크놀로지 순위
 
-![rank](rank.png)
+![rank](https://user-images.githubusercontent.com/61617997/146871806-5f478a95-af42-4c7b-a732-4117f1e15684.PNG)
 
 Kotlin은 2019년 기준 개발자들이 가장 좋아하는 언어 4위에 랭크 되어 있기 때문에 코틀린의 어떤 특성 때문에 많은 사람들이 좋아하는 지 알아보게 되었다.
 
